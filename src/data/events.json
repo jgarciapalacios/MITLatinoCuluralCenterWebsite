@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cena A Las Seis",
+    "description": "Cena a las Seis, or \"Dinner at Six,\" is an annual LCC-organized Family Weekend event where we bring MIT students and their families together for a semi-formal evening of Latino cuisine and student performances and presentations.",
+    "image": "/images/events/cena.webp"
+  },
+  {
+    "title": "Gala Sabrosura",
+    "description": "Gala Sabrosura is the large celebratory event where students can forget about all the stress at MIT and just come eat good food and dance to Latin beats.",
+    "image": "/images/events/gala-sabrosura.webp"
+  },
+  {
+    "title": "Hispanic Heritage Month Events",
+    "description": "Hispanic Heritage Month starts September 15th and ends October 15th. The LCC hosts multiple events during this time celebrating Hispanic heritage and culture.",
+    "image": "/images/events/hhm.webp"
+  },
+  {
+    "title": "MIT Latino Graduation",
+    "description": "An annual graduation for Latino undergraduate and graduate students at MIT, celebrating and highlighting Latino excellence in industry and academia.",
+    "image": "/images/events/latinx-grad.webp"
+  },
+  {
+    "title": "Festival de Las Americas",
+    "description": "The purpose of the Festival is to promote Latino culture and food to the greater MIT community during Mes Latino. To participate in the activity, guests walk around the festival and answer trivia questions about Latin America (which are posed by representatives from the different LCC groups).",
+    "image": "/images/events/festival-de-las-americas.webp"
+  }
+]

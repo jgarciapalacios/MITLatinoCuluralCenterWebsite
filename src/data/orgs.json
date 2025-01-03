@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Association of Puerto Rican Students",
+    "description": "The Association of Puerto Rican Students (APR) is an ASA-recognized student organization led by undergraduates at MIT that is dedicated to serving the needs of the MIT Puerto Rican community.",
+    "link": "http://apr.mit.edu/",
+    "image": "images/logos/apr-logo.webp"
+  },
+  {
+    "title": "Casino Rueda",
+    "description": "We’re MIT Casino Rueda, a student group committed to helping everyone, no matter their skill level, improve their Casino Rueda. Casino is a Cuban-style Salsa and Rueda, or “wheel” in Spanish, means that all of the couples dance in-sync in a large circle.",
+    "link": "https://www.facebook.com/groups/128986567784886/",
+    "image": "images/logos/casino-logo.webp"
+  },
+  {
+    "title": "Latin Dance Club (LDC)",
+    "description": "Our mission is to foster an open and diverse community for Latin Social Dancing across MIT’s campus. We offer free lessons for all members, ranging from beginner to intermediate—no partner needed!",
+    "link": "https://engage.mit.edu/ldc/mit-latin-dance-club/",
+    "image": "images/logos/ldc-logo.webp"
+  },
+  {
+    "title": "Latinos in Science and Engineering (MAES)",
+    "description": "Latinos in Science and Engineering is the second-largest Engineering and Professional development club at MIT. We focus on the professional development of our individual members, offering them resources and opportunities for success. MAES-MIT supports its members by connecting them with corporate sponsors, building community, supporting members, and having fun.",
+    "link": "http://maes.mit.edu/",
+    "image": "images/logos/maes-logo.webp"
+  },
+  {
+    "title": "LUCHA",
+    "description": "MIT's LUCHA is a student organization under the Latino Cultural Center. We are dedicated to providing both cultural and academic support to students who identify in any way with the Latino culture. We are a familia dedicated to supporting each other and creating bonds that last throughout a student's entire time here at MIT.",
+    "link": "http://lucha.mit.edu/",
+    "image": "images/logos/lucha-logo.webp"
+  },
+  {
+    "title": "MIT Mariachi",
+    "description": "MIT's Mariachi Group",
+    "link": "http://shpe.mit.edu/",
+    "image": "images/logos/mariachi-logo.webp"
+  },
+  {
+    "title": "Mujeres Latinas",
+    "description": "Seek social and professional advancement and cultural enrichment of Latinas in the MIT community and the Boston-Cambridge area.",
+    "link": "http://web.mit.edu/mujeres/www/",
+    "image": "images/logos/mujeres-logo.webp"
+  },
+  {
+    "title": "Society of Hispanic Professional Engineers (SHPE)",
+    "description": "The Society of Hispanic Professional Engineers is the largest Hispanic Engineering and Science organization across the U.S. and Puerto Rico. One of 236 student chapters, SHPE-MIT was established in 1987 and has grown to become one of the strongest and most successful chapters in the Northeast. SHPE-MIT is dedicated to developing the professional and academic skills of our members by offering them internship, networking, mentoring, and diversity awareness opportunities.",
+    "link": "http://shpe.mit.edu/",
+    "image": "images/logos/shpe-logo.webp"
+  }
+]

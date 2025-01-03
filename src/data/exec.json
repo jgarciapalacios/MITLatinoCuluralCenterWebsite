@@ -1,0 +1,77 @@
+[
+  {
+    "title": "President",
+    "description": "Ernesto Gomez",
+    "image": "images/exec/ernesto.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Vice President",
+    "description": "Giuliana Cabrera",
+    "image": "images/exec/giuli.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Treasurer",
+    "description": "Davian Rodriguez",
+    "image": "images/exec/davian.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Secretary",
+    "description": "Camila Zavala",
+    "image": "images/exec/camila.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Operations",
+    "description": "Thalia Gonzales",
+    "image": "images/exec/thalia.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "LLA Director",
+    "description": "Javier Garcia Palacios",
+    "image": "images/exec/javi.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Sin Limite",
+    "description": "Janine Medrano",
+    "image": "images/exec/janine.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "External Affairs",
+    "description": "Ashley Gallitto",
+    "image": "images/exec/ashley.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Publicity",
+    "description": "Olivia Muñoz",
+    "image": "images/exec/olivia.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Historian",
+    "description": "Xavier Mercado",
+    "image": "images/exec/placeholder.webp",
+    "date": "2021-2022"
+  },
+  {
+    "title": "Alumni Relations",
+    "description": "Valeria Mejia",
+    "image": "images/exec/valeria.webp"
+  },
+  {
+    "title": "Freshman Rep",
+    "description": "Alejandro Rodriguez",
+    "image": "images/exec/alejandro.webp"
+  },
+  {
+    "title": "Freshman Rep",
+    "description": "Eduardo Hernandez",
+    "image": "images/exec/placeholder.webp"
+  }
+]

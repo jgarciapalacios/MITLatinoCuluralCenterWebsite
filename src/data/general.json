@@ -1,0 +1,13 @@
+{
+  "fullName": "MIT Latino Cultural Center",
+  "nickname": "MIT LCC",
+  "email": "lcc-exec@mit.edu",
+  "logoSrc": "/images/lcc-white-text.png",
+  "about": "The Latino Cultural Center (LCC) serves as an umbrella organization that supports several student groups dedicated to celebrating and promoting Latino culture, history, and experiences.",
+  "pages": [
+    { "path": "/", "label": "Home" },
+    { "path": "/lounge", "label": "The Lounge" },
+    { "path": "/calendar", "label": "Event Calendar" }
+  ],
+  "linkTree": "https://linktr.ee/mitlcc"
+}

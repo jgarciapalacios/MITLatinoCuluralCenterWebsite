@@ -1,0 +1,120 @@
+.cards-section {
+  padding: 20px;
+}
+
+.cards-container {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.card-container {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  flex: 0 0 auto; /* Prevent cards from stretching and force them to maintain size */
+  transition: transform 0.3s ease;
+}
+
+.card-container.event-card {
+  width: 320px;
+  height: 180px;
+}
+
+.card-container.exec-card {
+  width: 160px;
+  height: 180px;
+}
+.card-container.org-card {
+  width: 320px;
+  height: 180px;
+}
+
+.card-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  color: #fff;
+  text-align: center;
+  z-index: 1; /* Ensure it's on top of the image */
+  transition: opacity 0.3s ease-in-out; /* Fade effect */
+  opacity: 1; /* Visible by default */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  text-align: center;
+  overflow: hidden;
+  word-wrap: break-word;
+  white-space: normal;
+  z-index: 2; /* Ensure it overlays everything on hover */
+}
+
+.overlay h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.overlay p {
+  font-size: 12px;
+}
+
+.title h3 {
+  margin: 4px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .card-container.event-card {
+    width: 220px;
+    height: 160px;
+  }
+  .card-container.exec-card {
+    width: 122px;
+    height: 160px;
+  }
+  .card-container.org-card {
+    width: 220px;
+    height: 160px;
+  }
+  .title h3 {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card-container.event-card {
+    width: 220px;
+    height: 140px;
+  }
+  .card-container.exec-card {
+    width: 120px;
+    height: 140px;
+  }
+  .card-container.org-card {
+    width: 220px;
+    height: 140px;
+  }
+}
